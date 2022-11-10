@@ -188,11 +188,11 @@
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\ClojureCLR-WIP\\clr.data.priority-map\\src\\main\\dotnet\\packager\\clojure.data.priority-map.csproj",
+      "projectUniqueName": "C:\\work\\clr.data.priority-map\\src\\main\\dotnet\\packager\\clojure.data.priority-map.csproj",
       "projectName": "clojure.data.priority-map",
-      "projectPath": "C:\\work\\ClojureCLR-WIP\\clr.data.priority-map\\src\\main\\dotnet\\packager\\clojure.data.priority-map.csproj",
+      "projectPath": "C:\\work\\clr.data.priority-map\\src\\main\\dotnet\\packager\\clojure.data.priority-map.csproj",
       "packagesPath": "C:\\Users\\dmill\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\ClojureCLR-WIP\\clr.data.priority-map\\src\\main\\dotnet\\packager\\obj\\",
+      "outputPath": "C:\\work\\clr.data.priority-map\\src\\main\\dotnet\\packager\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
