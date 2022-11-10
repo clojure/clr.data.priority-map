@@ -7,6 +7,8 @@
   :warn-on-reflection true
   :source-paths ["src/main/clojure"]
   :test-paths ["src/test/clojure"]    
+  :deploy-repositories [["clojars" {:url "https://clojars.org/repo/"
+                                    :sign-releases  false}]]
   :min-lein-version "2.0.0"
   :plugins [[lein-clr "0.2.1"]]
   :clr {:cmd-templates  {:clj-exe   [[?PATH "mono"] [CLJCLR14_40 %1]]
