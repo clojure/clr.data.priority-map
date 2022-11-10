@@ -14,8 +14,9 @@ pom.xml
 
 
 #Visual Studio artifacts
-bin
-obj
+bin/
+obj/
+.vs/
 *.user
 *.suo
 *.nupkg
