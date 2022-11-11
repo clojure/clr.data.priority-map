@@ -9,7 +9,7 @@ See that repository for documentation.
 Nuget reference:
 
 ```
-PM> Install-Package clojure.data.priority-map
+PM> Install-Package clojure.data.priority-map  -Version 1.1.0
 ```
 
 Leiningen/Clojars reference:
