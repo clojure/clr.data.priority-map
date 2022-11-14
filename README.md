@@ -21,6 +21,7 @@ Leiningen/Clojars reference:
 This version:
 
 Copyright (C) 2022 Rich Hickey, David Miller & ClojureCLR contributors
+Distributed under the Eclipse Public License, the same as Clojure.
 
 The parent project has this:
 
