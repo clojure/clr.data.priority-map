@@ -1,4 +1,4 @@
-(ns clojure.data.test-priority-map
+(ns clojure.data.priority-map-test
   (:use clojure.test
         clojure.data.priority-map)
   (:refer-clojure :exclude [subseq rsubseq]))
