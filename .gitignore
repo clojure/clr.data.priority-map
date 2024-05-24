@@ -1,8 +1,14 @@
+
+pom.xml
+/lib/
+/classes/
+/targets/
 /target
-/lib
+.cpcache
+.idea/
+*.iml
 /classes
 /checkouts
-pom.xml
 *.jar
 *.class
 *.dll
@@ -11,12 +17,11 @@ pom.xml
 .lein-deps-sum
 .lein-failures
 .lein-plugins
-
+.vs
 
 #Visual Studio artifacts
-bin/
-obj/
-.vs/
+bin
+obj
 *.user
 *.suo
 *.nupkg
