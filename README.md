@@ -10,7 +10,7 @@ The latest stable release is 1.2.0.
 
 [CLI/`deps.edn`](https://clojure.org/reference/deps_edn) dependency information:
 ```clojure
- {io.github.clojure/clr.data.priority-map {:git/tag "v1.2.0" :git/sha "47dcfa5"}}
+ {io.github.clojure/clr.data.priority-map {:git/tag "v1.2.0" :git/sha "1c22751"}}
 ```
 
 Nuget reference:
