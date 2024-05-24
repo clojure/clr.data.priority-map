@@ -13,12 +13,12 @@
 		<AssemblyTitle>clojure.data.priority-map</AssemblyTitle>
 		<Authors>David Miller and ClojureCLR contributors</Authors>
 		<Description>A port of the data.priority-map library to ClojureCLR</Description>
-		<Copyright>Copyright © Rich Hickey 2022</Copyright>
+		<Copyright>Copyright © Rich Hickey 2024</Copyright>
 		<PackageLicenseExpression>EPL-1.0</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/clojure/clojure.tools.namesapce</RepositoryUrl>
 		<Company>ClojureCLR contributors</Company>
 		<PackageTags>Clojure;ClojureCLR</PackageTags>
-		<Version>1.1.0</Version>
+		<Version>1.2.0</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
